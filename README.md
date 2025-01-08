@@ -1,4 +1,4 @@
-# Excel_To_Word_Letters
+# Excel_To_Multiple_Word_Files
 
 # Mail Merge Application
 
